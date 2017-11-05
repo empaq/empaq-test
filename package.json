@@ -1,0 +1,22 @@
+{
+  "name": "@empaq/empaq-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empaq/empaq-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empaq/empaq-test/issues"
+  },
+  "homepage": "https://github.com/empaq/empaq-test#readme",
+  "dependencies": {
+    "@empaq/empaq-test-src": "^1.0.1"
+  }
+}
